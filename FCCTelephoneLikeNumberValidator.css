@@ -1,0 +1,55 @@
+body {
+    background-color:  white;
+    align-content: center;
+    text-align: center;
+    border: 5px solid black;
+    width: 270px;
+    height: 370px;
+    border-radius: 5px;
+  } 
+  
+  .container {
+    background-color: rgb(27,27,50);
+  }
+  
+  p {
+    font-size: 30px;
+    border-bottom: 5px solid black;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    background-color: rgb(27,27,50);
+    color: limegreen;
+  }
+  
+  #user-input {
+    border: 2px solid rgb(27,27,50);
+    margin-bottom: 10px;
+    background-color: gray;
+    color: limegreen;
+  }
+  
+  ::placeholder {
+    color: limegreen;
+  }
+  
+  #check-btn, #clear-btn {
+    border: 2px solid rgb(27,27,50);
+    margin-bottom: 10px;
+    background-color: limegreen;
+    border-radius: 20px;
+  }
+  
+  .phone-btn {
+    background-color: lightgray;
+    height: 40px;
+    width: 40px;
+    font-size: 25px;
+  }
+  
+  #phone-btnx, #phone-btnz {
+    background-color: gray;
+    height: 40px;
+    width: 40px;
+    font-size: 25px;
+    color: limegreen;
+  }
